@@ -10,7 +10,7 @@
         **takes a long time to load*
 
 
-Live site found here: https://amitabh-ecom.herokuapp.com/
+
 
 
 eCommerce Marketplace is
